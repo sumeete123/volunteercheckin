@@ -1,0 +1,9 @@
+{
+  "Adnan":  {"batch": "Advanced",     "topic": "Divisor Counting Formulas + Advanced Prime Factorization"},
+  "Kayal":  {"batch": "Advanced",     "topic": "Divisor Counting Formulas + Advanced Prime Factorization"},
+  "Arjun":  {"batch": "Intermediate", "topic": "Vertex Form"},
+  "Manav":  {"batch": "Elementary",   "topic": "Fractions"},
+  "Pranay": {"batch": "",             "topic": ""},
+  "Rishik": {"batch": "Beginner",     "topic": "Coordinate Geometry (distance, slope, midpoint)"},
+  "Aarav":  {"batch": "Intermediate", "topic": "Vertex Form"}
+}
