@@ -1,6 +1,6 @@
 {
   "Elementary":    { "day": "Monday",    "time": "5:00 PM",  "end": "6:00 PM"  },
-  "Beginner":      { "day": "Saturday",  "time": "3:30 PM",  "end": "4:30 PM"  },
+  "Beginner":      { "day": "Wednesday",  "time": "6:00 PM",  "end": "7:00 PM"  },
   "Intermediate":  { "day": "Thursday",  "time": "6:15 PM",  "end": "7:15 PM"  },
   "Advanced":      { "day": "Friday",    "time": "6:00 PM",  "end": "7:00 PM"  }
 }
