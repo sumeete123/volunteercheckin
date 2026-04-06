@@ -1,11 +1,11 @@
 {
-  "Adnan":    {"mail": "bakshia.321@gmail.com",           "batch": ""},
-  "Kayal":    {"mail": "kbv4588@gmail.com",               "batch": ""},
-  "Arjun":    {"mail": "arjun.amith.savanur@gmail.com",   "batch": ""},
-  "Manav":    {"mail": "miryalamanav10@gmail.com",        "batch": ""},
-  "Pranay":   {"mail": "pranaypratik.boyapati@gmail.com", "batch": ""},
-  "Rishik":   {"mail": "Rishik.Sandeep@gmail.com",        "batch": ""},
-  "Sumeet":   {"mail": "sumeetcubing@gmail.com",          "batch": ""},
-  "Vedansh":  {"mail": "vlankala07@gmail.com",            "batch": ""},
-  "Aarav":    {"mail": "aarav.shejekan@gmail.com",        "batch": "Advanced"},
+  "Adnan":    "bakshia.321@gmail.com",
+  "Kayal":    "kbv4588@gmail.com",
+  "Arjun":    "arjun.amith.savanur@gmail.com",
+  "Manav":    "miryalamanav10@gmail.com"},
+  "Pranay":   "pranaypratik.boyapati@gmail.com",
+  "Rishik":   "Rishik.Sandeep@gmail.com",
+  "Sumeet":   "sumeetcubing@gmail.com",
+  "Vedansh":  "vlankala07@gmail.com",
+  "Aarav":    "aarav.shejekan@gmail.com"
 }
